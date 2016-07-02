@@ -1,3 +1,0 @@
-a file directly committed without moving to staging Area
-File Changed
-
