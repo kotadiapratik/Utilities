@@ -1,6 +1,0 @@
-this is a test file
-Second version of the file
-Third version of the file
-(pending changs for the third version)
-Fourth version of the file
-Fifth version of the file
